@@ -40,13 +40,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ganji_karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ganji_karthik" height="30" width="40" /></a>
-&nbsp;&nbsp;
 <a href="https://linkedin.com/in/karthikbabuganji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikbabuganji" height="30" width="40" /></a>
-&nbsp;&nbsp;
 <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-&nbsp;&nbsp;
 <a href="https://instagram.com/karthikbabu_gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikbabu_gk" height="30" width="40" /></a>
-&nbsp;&nbsp;
 <a href="https://www.youtube.com/@nayamediaworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 <!--
@@ -65,4 +61,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [My YouTube](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA)
 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## - [Data Science Blog](https://medium.com/@)
