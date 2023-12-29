@@ -1,5 +1,4 @@
-# Data Scientist
-
+# Devops devloper
 ### Technical Skills: Java, SQL, AWS, Maven, Jenkins, Docker
 
 ### Education							       		
