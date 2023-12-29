@@ -6,11 +6,10 @@
 - B.Tech., ECE | Jawaharlal Nehru Technological University Hyderabad (_May 2015_)
 
 ### Work Experience
-**  **Security Supervisor |MITIE SECURITY PVT LTD Feb 2023 – Dec 2023**  </br>
-
+**  **Security Supervisor |MITIE SECURITY PVT LTD Feb 2023 – Dec 2023**  
 Crowne Plaza, Kingston Surbiton, London – KT6 5QQ 
 --------------------------------------------------
-I supervise a team of security officers at one of London's most prestigious sites. Our role is to provide security for the people who stay in hotel and to protect the integrity of the building. 
+I supervise a team of security officers at one of London's most prestigious sites. Our role is to provide security for the people who stay in the hotel and to protect the integrity of the building. 
 
 Skills: Operations Management • Analytical Skills • Communication • Employee Training • Team Management • Continuous Improvement • Networking
 
