@@ -54,5 +54,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 <a href="https://www.youtube.com/@nayamediaworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-click to download CV [word file](/assets/cvfiles/cv.docx)
-[webdev]: https://github.com/karthikganji/karthikganji
+<p>click to download CV [word file](/assets/cvfiles/cv.docx)</p>
+<p>[webdev]: https://github.com/karthikganji/karthikganji</p>
