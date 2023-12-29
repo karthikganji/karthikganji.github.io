@@ -6,34 +6,39 @@
 - B.Tech., ECE | Jawaharlal Nehru Technological University Hyderabad (_May 2015_)
 
 ### Work Experience
-** Mitie 
-- Uncovered and corrected missing step in the production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**  **Security Supervisor |MITIE SECURITY PVT LTD Feb 2023 – Dec 2023**
+Crowne Plaza, Kingston Surbiton, London – KT6 5QQ
+--------------------------------------------------
+I supervise a team of security officers at one of London's most prestigious sites. Our role is to provide security for the people who stay in hotel and to protect the integrity of the building. 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+Skills: Operations Management • Analytical Skills • Communication • Employee Training • Team Management • Continuous Improvement • Networking
 
-### Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+** **Helpdesk Admin  Sep 2022 – Feb 2023**
+Northwick Park Hospital | Harrow | London – HA1 3UJ
+---------------------------------------------------
+Provided efficient helpdesk support to resolve technical issues, maintained documentation, and collaborated with IT teams, using a ticketing system. Streamlined processes resulted in a 20% reduction in resolution time.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+ Skills: Ability to manage multiple support requests, good communication skills, strong knowledge of hardware-software & networking fundamentals, and proficiency in Ubuntu Linux commands and Windows OS.
 
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-
-### Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+Achievements: Received consistent positive feedback from users for excellent customer service; quick problem solver award internal team of continuous 2 months.
 
   
+**OPERATION EXECUTIVE June 2018 - February 2019**
+TCS-ION | Deccan Park HITEC City, Madhapur, Telangana, India - 500081
+---------------------------------------------------------------------
+Operation Executive role usually changes depending on the type of project. And My roles are Network Admin, Monitoring Servers, identifying technical errors fixing, and Conducting exams online for at least 500 Candidates and monitoring to Finish the Exam peacefully.
+
+**Awards**
+March-2019 
+One-time Milestone Achievement Reward 
+In appreciation of efforts, hard work and dedication towards running exams. The client company has announced this Reward.
+
+
+**SALESPERSON February 2019 - March 2020**
+Varun Agencies | Charbouli, Warangal Telangana, India – 506002
+---------------------------------------------------------------
+Handling the Bills, Invoices and updating in Tally Accounting software. Interacting with clients, taking new orders, and ensuring products are delivered on time. Handling the cash flow transactions and updating the Tally.
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikganji" alt="karthikganji" /></a> </p>
