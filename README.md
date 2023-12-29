@@ -54,10 +54,11 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 <a href="https://www.youtube.com/@nayamediaworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<a href="/images/myw3schoolsimage.jpg" download>
-  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools" width="104" height="142">
-</a>
-
+<p>Click on the w3schools logo to download the image:<p>
+<a href="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/img/ms-word.png" download>
+  <img src="https://www.github.com/karthikganji/karthikganji.github.io/blob/main/assets/img/ms-word.png" alt="mswordimage">
+</a> 
+  
 <a href="https://www.github.com/karthikganji/karthikganji.github.io/blob/main/assets/cvfiles/CV.docx">click to download CV!</a>
 <br>
 
