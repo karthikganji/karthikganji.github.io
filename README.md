@@ -1,13 +1,13 @@
-# Devops devloper
+# Devops developer
 ### Technical Skills: Java, SQL, AWS, Maven, Jenkins, Docker
 
 ### Education							       		
-- M.B.A, 	| Wrexham glyndwr university at wrexham (_December 2022_)	 			        		
+- M.B.A, 	| Wrexham Glyndwr university at Wrexham (_December 2022_)	 			        		
 - B.Tech., ECE | Jawaharlal Nehru Technological University Hyderabad (_May 2015_)
 
 ### Work Experience
 ** Mitie 
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Uncovered and corrected missing step in the production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
@@ -34,6 +34,16 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
   
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikganji" alt="karthikganji" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikganji&show_icons=true&locale=en&layout=compact" alt="karthikganji" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikganji&show_icons=true&locale=en" alt="karthikganji" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikganji&" alt="karthikganji" /></p>
+
 ### Connect with me:
 
 <p align="left">
@@ -44,13 +54,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 <a href="https://www.youtube.com/@nayamediaworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikganji" alt="karthikganji" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikganji&show_icons=true&locale=en&layout=compact" alt="karthikganji" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikganji&show_icons=true&locale=en" alt="karthikganji" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikganji&" alt="karthikganji" /></p>
 
 [webdev]: https://github.com/karthikganji/karthikganji
