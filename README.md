@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Java, SQL, AWS, Maven, Jenkins, Docker
+### Technical Skills: Java, SQL, AWS, Maven, Jenkins, Docker
 
 ### Education							       		
 - M.B.A, 	| Wrexham glyndwr university at wrexham (_December 2022_)	 			        		
@@ -26,7 +26,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 
-## Talks & Lectures
+### Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
@@ -58,7 +58,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikganji&" alt="karthikganji" /></p>
 
 [webdev]: https://github.com/karthikganji/karthikganji
-- [My YouTube](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA)
+## - [My YouTube](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA)
 
 
 ## - [Data Science Blog](https://medium.com/@)
