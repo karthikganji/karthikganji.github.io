@@ -36,7 +36,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
   
 ### Connect with me:
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ganji_karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ganji_karthik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karthikbabuganji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikbabuganji" height="30" width="40" /></a>
