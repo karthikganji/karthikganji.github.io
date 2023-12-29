@@ -7,15 +7,21 @@
 
 ### Work Experience
 **  **Security Supervisor |MITIE SECURITY PVT LTD Feb 2023 – Dec 2023**  </br>
+
 Crowne Plaza, Kingston Surbiton, London – KT6 5QQ  </br>
+
 --------------------------------------------------  </br>
+
 I supervise a team of security officers at one of London's most prestigious sites. Our role is to provide security for the people who stay in hotel and to protect the integrity of the building. 
 
 Skills: Operations Management • Analytical Skills • Communication • Employee Training • Team Management • Continuous Improvement • Networking
 
 ** **Helpdesk Admin  Sep 2022 – Feb 2023**  </br>
+
 Northwick Park Hospital | Harrow | London – HA1 3UJ  </br>
+
 ---------------------------------------------------   </br>
+
 Provided efficient helpdesk support to resolve technical issues, maintained documentation, and collaborated with IT teams, using a ticketing system. Streamlined processes resulted in a 20% reduction in resolution time.
 
  Skills: Ability to manage multiple support requests, good communication skills, strong knowledge of hardware-software & networking fundamentals, and proficiency in Ubuntu Linux commands and Windows OS.
@@ -24,8 +30,11 @@ Achievements: Received consistent positive feedback from users for excellent cus
 
   
 ** **OPERATION EXECUTIVE June 2018 - February 2019**  </br>
+
 TCS-ION | Deccan Park HITEC City, Madhapur, Telangana, India - 500081  </br> 
+
 ---------------------------------------------------------------------   </br>
+
 Operation Executive role usually changes depending on the type of project. And My roles are Network Admin, Monitoring Servers, identifying technical errors fixing, and Conducting exams online for at least 500 Candidates and monitoring to Finish the Exam peacefully.
 
 **Awards**
@@ -35,8 +44,11 @@ In appreciation of efforts, hard work and dedication towards running exams. The 
 
 
 ** **SALESPERSON February 2019 - March 2020**  </br>
+
 Varun Agencies | Charbouli, Warangal Telangana, India – 506002  </br>
+
 ---------------------------------------------------------------  </br>
+
 Handling the Bills, Invoices and updating in Tally Accounting software. Interacting with clients, taking new orders, and ensuring products are delivered on time. Handling the cash flow transactions and updating the Tally.
 
 
