@@ -107,6 +107,6 @@ Handling the Bills, Invoices and updating in Tally Accounting software. Interact
   <img src="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/img/pdf.png" alt="pdfimage">
 </a> 
 <br>
-<br>
+<be>     https://www.github.com/karthikganji/karthikganji.github.io/blob/main/assets/cvfiles/Karthikganji.pdf
 <a href="https://www.github.com/karthikganji/karthikganji.github.io/blob/main/assets/cvfiles/karthikganji.pdf" target="_blank">click to here to view!</a>
 
