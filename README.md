@@ -11,10 +11,13 @@ Northwick Park Hospital | Harrow | London – HA1 3UJ
 ---------------------------------------------------
 
 
-**  **Security Supervisor |MITIE SECURITY PVT LTD Feb 2023 – Dec 2023**  
+**  **Shift Supervisor |MITIE SECURITY PVT LTD Feb 2023 – Feb 2024**  
 Crowne Plaza, Kingston Surbiton, London – KT6 5QQ 
---------------------------------------------------
-I supervise a team of security officers at one of London's most prestigious sites. Our role is to provide security for the people who stay in the hotel and to protect the integrity of the building. 
+<br>
+<div class="w3-bar w3-border w3-dark-grey">Mitie - London, UK Feb 2023 to Feb 2024
+
+<br>
+
 
 Skills: Operations Management • Analytical Skills • Communication • Employee Training • Team Management • Continuous Improvement • Networking
 
