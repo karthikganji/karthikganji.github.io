@@ -100,13 +100,13 @@ Handling the Bills, Invoices and updating in Tally Accounting software. Interact
 </p>
 
 <p>Click on the below format images to download my cv<p>
-<a href="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/cvfiles/karthik ganji.docx" download>
+<a href="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/cvfiles/karthikganji.docx" download>
   <img src="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/img/msword.png" alt="mswordimage">
 </a> 
-<a href="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/cvfiles/karthik ganji.pdf" download>
+<a href="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/cvfiles/karthikganji.pdf" download>
   <img src="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/img/pdf.png" alt="pdfimage">
 </a> 
 <br>
 <br>
-<a href="https://www.github.com/karthikganji/karthikganji.github.io/blob/main/assets/cvfiles/karthik ganji.pdf" target="_blank">click to here to view!</a>
+<a href="https://www.github.com/karthikganji/karthikganji.github.io/blob/main/assets/cvfiles/karthikganji.pdf" target="_blank">click to here to view!</a>
 
