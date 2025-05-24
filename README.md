@@ -3,9 +3,14 @@
 
 ### Education							       		
 - M.B.A, 	| Wrexham Glyndwr university at Wrexham (_December 2022_)	 			        		
-- B.Tech., ECE | Jawaharlal Nehru Technological University Hyderabad (_May 2015_)
+- B.Tech., ECE | Jawaharlal Nehru Technological University Hyderabad (_May 2017_)
 
 ### Work Experience
+** **Helpdesk Admin  Sep 2022 – Feb 2023**  
+Northwick Park Hospital | Harrow | London – HA1 3UJ 
+---------------------------------------------------
+
+
 **  **Security Supervisor |MITIE SECURITY PVT LTD Feb 2023 – Dec 2023**  
 Crowne Plaza, Kingston Surbiton, London – KT6 5QQ 
 --------------------------------------------------
