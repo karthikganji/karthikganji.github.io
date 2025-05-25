@@ -13,7 +13,7 @@ AWS DevOps Engineer with a strong focus on automating infrastructure and optimis
 • Perform system updates, backups, and disaster recovery planning.<br>
 • Continuously improve deployment strategies and reduce downtime during releases.<br>
 • Support agile development practices and participate in sprint planning and retrospectives.<br>
-
+https://www.github.com/karthikganji/karthikganji.github.io/blob/main/assets/assets/code.html
 # Devops developer
 ### Technical Skills: Java, SQL, AWS, Maven, Jenkins, Docker
 
